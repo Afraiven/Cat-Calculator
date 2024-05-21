@@ -4,7 +4,7 @@
 🐱 Calculator with a silly cat that claps its paw whenever you need to calculate something
 
 ## Access at
-https://afraiven.github.io/kalkulator/
+https://afraiven.github.io/Cat-Calculator/
 
 ## Technologies
 - HTML
